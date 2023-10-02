@@ -8,9 +8,9 @@ que he desarrollado.
 * [Intereses](#intereses)
   
 ## Información personal
-* Nombre: Angel Tomalá
-* Ocupación: Estudiante de Ing. en Ciencias de la Computación - ESPOL
-* Sitio web: [Tu sitio web]
+* **Nombre:** Angel Tomalá
+* **Ocupación:** Estudiante de Ing. en Ciencias de la Computación - ESPOL
+* **Sitio web:** [Tu sitio web]
   
 ## Proyectos
 * [Lista de tus proyectos]
