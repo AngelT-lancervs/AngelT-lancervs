@@ -1,16 +1,19 @@
-# Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+# Sección de proyectos
+Este repositorio funciona como portafolio y contiene gran parte de los proyectos
+que he desarrollado.
+
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+  
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: [Angel Tomalá]
+* Ocupación: [Estudiante de Ing. en Ciencias de la Computación - ESPOL]
 * Sitio web: [Tu sitio web]
+  
 ## Proyectos
 * [Lista de tus proyectos]
+  
 ## Intereses
-* [Lista de tus intereses]
+* [Diseño y Desarollo de Videojuegos]
