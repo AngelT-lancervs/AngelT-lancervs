@@ -8,7 +8,7 @@ que he desarrollado.
 * [Intereses](#interéses)
   
 ## Información personal
-* **Nombre:** Angel Tomalá
+* **Nombre:** Angel Alexander Tomalá Moreno
 * **Ocupación:** Estudiante Universitario en la ESPOL en la carrera de Ingeniería en Ciencias de la Computación.
 * **Sitio web:** [Tu sitio web]
   
