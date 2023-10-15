@@ -10,6 +10,7 @@ que he desarrollado.
 ## Información personal
 * **Nombre:** Angel Alexander Tomalá Moreno
 * **Ocupación:** Estudiante Universitario en la ESPOL en la carrera de Ingeniería en Ciencias de la Computación.
+*  **Correo:** aatomala@espol.edu.ec
 * **Sitio web:** https://angelt-lancervs.github.io/curriculum/
   
 ## Proyectos
@@ -26,4 +27,6 @@ que he desarrollado.
   
 ## Interéses
 * Diseño y desarollo de Videojuegos.
+* Desarrollo Web.
+* Base de Datos.
 * Desarrollo de Software.
