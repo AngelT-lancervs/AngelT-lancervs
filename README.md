@@ -17,7 +17,7 @@ que he desarrollado.
 * Sistema de Citas para niños con problemas motrices y/o cognitivos: https://github.com/AngelT-lancervs/Proyecto-POO.git
     * **Participantes adicionales:**  https://github.com/JeryRPG, https://github.com/LoorPaulina
       
-* Juego hecho en Godot con assets gratuitos aplicando conceptos de los números de Catalán: https://github.com/AngelT-lancervs/ProyectoDiscretas.git
+* Juego hecho en Godot con assets gratuitos aplicando conceptos de los números de Catalán: https://github.com/AngelT-lancervs/Catalan-Numbers.git
 * Implementación de un Arbol multicamino usado para la creación de diccionarios en formato .txt: https://github.com/AngelT-lancervs/Grupo_06.git
     * **Participantes adicionales:**  https://github.com/K3vR0ld4n, https://github.com/JorgeMawyin
  
