@@ -14,14 +14,14 @@ que he desarrollado.
 * **Sitio web:** https://angelt-lancervs.github.io/curriculum/
   
 ## Proyectos
-* Sistema de Citas para niños con problemas motrices y/o cognitivos: https://github.com/AngelT-lancervs/Proyecto-POO.git
+* [Sistema de Citas para niños con problemas motrices y/o cognitivos](https://github.com/Jeremy-Poveda/Medical-appointment-system-for-special-children/blob/main/README.md)
     * **Participantes adicionales:**  https://github.com/JeryRPG, https://github.com/LoorPaulina
       
-* Juego hecho en Godot con assets gratuitos aplicando conceptos de los números de Catalán: https://github.com/AngelT-lancervs/Catalan-Numbers.git
-* Implementación de un Arbol multicamino usado para la creación de diccionarios en formato .txt: https://github.com/AngelT-lancervs/Grupo_06.git
+* [Juego hecho en Godot con assets gratuitos aplicando conceptos de los números de Catalán](https://github.com/AngelT-lancervs/Catalan-Numbers.git)
+* [Implementación de un Arbol multicamino usado para la creación de diccionarios en formato .txt](https://github.com/AngelT-lancervs/Grupo_06.git)
     * **Participantes adicionales:**  https://github.com/K3vR0ld4n, https://github.com/JorgeMawyin
  
-* Editor de Emojis con interfaz gráfica hecho en Java con opciones de exportar emojis como .png: https://github.com/AngelT-lancervs/Proyecto1-Estructura_de_Datos.git
+* [Editor de Emojis con interfaz gráfica hecho en Java con opciones de exportar emojis como .png](https://github.com/AngelT-lancervs/Proyecto1-Estructura_de_Datos.git)
     * **Participantes adicionales:**  https://github.com/K3vR0ld4n, https://github.com/JorgeMawyin
 
   
