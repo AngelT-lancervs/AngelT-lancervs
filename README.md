@@ -28,5 +28,5 @@ que he desarrollado.
 ## Interéses
 * Diseño y desarollo de Videojuegos.
 * Desarrollo Web.
-* Base de Datos.
+* Cyberseguridad.
 * Desarrollo de Software.
